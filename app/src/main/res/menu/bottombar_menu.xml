@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bb_menu_location"
+        android:icon="@mipmap/ic_my_location"
+        android:title="Location" />
+    <item
+        android:id="@+id/bb_menu_notification"
+        android:icon="@mipmap/ic_notifications"
+        android:title="Notifications" />
+    <item
+        android:id="@+id/bb_menu_profile"
+        android:icon="@mipmap/ic_person"
+        android:title="Profile" />
+    <item
+        android:id="@+id/bb_menu_settings"
+        android:icon="@mipmap/ic_settings"
+        android:title="Settings" />
+</menu>
