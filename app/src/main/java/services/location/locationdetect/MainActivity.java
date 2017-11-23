@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
         bottomBar.setActiveTabColor("#3b5998");
 
        bottomBar.makeBadgeForTabAt(1, RelativeLayout.ALIGN_RIGHT, 4);
-
+55
     }
 
     @Override

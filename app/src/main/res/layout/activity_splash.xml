@@ -11,5 +11,4 @@
     <include layout="@layout/content_splash" />
 
 
-
 </android.support.design.widget.CoordinatorLayout>
